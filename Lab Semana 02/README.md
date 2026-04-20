@@ -14,7 +14,7 @@ Luis Andre Trujillo Serva
 
 ### Pantalla de salida
 <p align="center">
-    <img src="Imagenes/p01.png" width=400px>
+    <img src="../Imagenes/p01.png" width=400px>
 <p/>
 
 ## Código 02
@@ -30,5 +30,5 @@ Encuentra al cliente que más compras realizó en los terminales de cada socio.
 
 ### Pantalla de salida
 <p align="center">
-    <img src="Imagenes/p02.png" width=500px>
+    <img src="../Imagenes/p02.png" width=500px>
 <p/>
